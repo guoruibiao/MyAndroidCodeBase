@@ -11,6 +11,7 @@
 
 * WifiUtils
 * HttpUtils
+* DateUtils
 
 #### Animations
 
