@@ -9,6 +9,9 @@
 
 #### Utils
 
+* WifiUtils
+* HttpUtils
+
 #### Animations
 
 #### NetWork
@@ -28,5 +31,5 @@ I konw that this process may be bored and long, and I may also cannot do it well
 ### The End
 
 <pre>
-Well, there will no end. It's so cool! Don't you thinnk so ?
+Well, there will no end. It's so cool! Don't you think so ?
 </pre>
