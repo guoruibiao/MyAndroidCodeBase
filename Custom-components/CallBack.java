@@ -1,8 +1,8 @@
 package customcomponents;
 
 /**
- * Õâ¸ö½Ó¿ÚÊÇÓÃÓÚ¶Ô×Ô¶¨ÒåµÄDialogµÄ»Øµ÷ËùÓÃµ½µÄ
- * @author °²³şºÀ
+ * è¿™ä¸ªæ¥å£æ˜¯ç”¨äºå¯¹è‡ªå®šä¹‰çš„Dialogçš„å›è°ƒæ‰€ç”¨åˆ°çš„
+ * @author 
  *
  */
 public interface CallBack {
