@@ -12,6 +12,8 @@
 * WifiUtils
 * HttpUtils
 * DateUtils
+* MyLocationManager
+* GPSUtils
 
 #### Animations
 
